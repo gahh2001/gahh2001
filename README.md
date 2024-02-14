@@ -3,19 +3,13 @@
 Sou um desenvolvedor Web, apaixonado por resolver problemas e desenvolver soluções. Minha paixão se iniciou no desenvolvimento com a linguagem Java, a qual continua até hoje.
 Procuro sempre estar atualizado sobre tecnologias disponíveis para o mundo da programação, e este é o lugar onde você pode ver cada uma das minhas ideias e aprendizados praticados.
 
-Atualmente trabalho na Syonet CRM, a empresa líder no mercado de CRM automotivo da América Latina 🫨
+- 🔭 Atualmente trabalho na Syonet CRM, a empresa líder no mercado de CRM automotivo da América Latina 🫨
 
-<!--
-**gahh2001/gahh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tecnologias nas quais trabalho:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m cu
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- PSQL
+- React
+- Typescript
+- SpringBoot
+- Quarkus
