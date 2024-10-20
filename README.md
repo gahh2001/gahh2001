@@ -9,7 +9,7 @@ Procuro sempre estar atualizado sobre tecnologias disponíveis para o mundo da p
 #### Tecnologias nas quais trabalho:
 
 - Java
-- PSQL
+- PostgreSQL
 - React
 - Typescript
 - SpringBoot
