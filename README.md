@@ -14,3 +14,4 @@ Procuro sempre estar atualizado sobre tecnologias disponíveis para o mundo da p
 - Typescript
 - SpringBoot
 - Quarkus
+- Docker
