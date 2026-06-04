@@ -16,4 +16,5 @@ Procuro sempre estar atualizado sobre tecnologias disponíveis para o mundo da p
 - SpringBoot
 - Quarkus
 - Docker
+- RabbitMQ
 - Entre outras
